@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timer</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bungee+Outline&family=Nova+Mono&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1 class="titulo">Sejam Bem Vindos!</h1>
+    <div class="principal">
+        <div class="left_top">
+            <h2>Hora Atual</h2>
+            <h3>Horário de Brasília</h3>
+            <div class="relogio">00:00:00</div>
+            <button onclick="start()">Começar</button>
+            <button onclick="stop()">Parar</button>
+        </div>
+        <div class="right_top"></div>
+        <div class="left_bot"></div>
+        <div class="right_bot">
+            <h2>Cronômetro</h2><br>
+            <div id="contador">
+                <span class="reloj" id="Horas">00</span>:<span class="reloj" id="Minutos">00</span>:<span class="reloj" id="Segundos">00</span>:<span class="reloj" id="Centesimas">00</span>
+            </div>
+            <div id="botoes">
+                <button type="button" id="inicio" value=" &#9658;" onclick="inicio();">Começar</button>
+                <button type="button" id="parar" value=" &#8718;" onclick="parar();" disabled>Pausar</button>
+                <button type="button" id="continuar" value=" &#8634;" onclick="inicio();" disabled>Continuar</button>
+                <button type="button" id="reinicio" value=" &#8635;" onclick="reinicio();" disabled>Resetar</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+<footer>
+    Criado por <a href="">Tiago Castilho</a><br>
+    Exercício <a href="">B7Web</a>
+</footer>
+</html>
