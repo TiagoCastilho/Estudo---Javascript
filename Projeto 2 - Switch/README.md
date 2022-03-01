@@ -2,7 +2,7 @@
 Exercícios e Projetos
 <br/>
 <h1 align="center">
-    Projeto 1 - Menu de navegação
+    Projeto 2 - Switch
 </h1>
 
 ## Link do Projeto
