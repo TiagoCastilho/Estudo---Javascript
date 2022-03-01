@@ -4,7 +4,7 @@ function loadPosts() {
             return resultado.json();
         })
         .then(function(json) {
-            document.getElementById("posts").innerHTML = json.lenght+ ' posts';
+            document.getElementById("posts").innerHTML = json.length+ ' posts';
         })
         .catch(function(error) {
             console.log("Deu problema!");
