@@ -12,5 +12,5 @@ https://tiagocastilho.github.io/Estudo---Javascript/Projeto%204%20-%20Fetch/
 
 ## Imagem do Projeto
 <h1 align="center">
-<img src="...">
+<img src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%204%20-%20Fetch/como%20ficou.png">
 </h1>
