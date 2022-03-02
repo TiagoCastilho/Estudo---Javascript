@@ -17,3 +17,6 @@ https://tiagocastilho.github.io/Estudo---Javascript/Projeto%207%20-%20Compra%20d
 <h1 align="center">
 <img src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%207%20-%20Compra%20de%20Pizzas/como%20ficou2.png">
 </h1>
+<h1 align="center">
+<img src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%207%20-%20Compra%20de%20Pizzas/como%20ficou3.png">
+</h1>
