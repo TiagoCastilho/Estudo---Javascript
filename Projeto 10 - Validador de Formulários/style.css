@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+.tela {
+    display: flex;
+    height: 100vh;
+}
+.lado-esquerdo {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #249caa;
+}
+.lado-esquerdo img {
+    max-width: 880px;
+}
+.h1 {
+    display: flex;
+    align-items: center;
+}
+.lado-direito {
+    color: #249caa;
+    text-shadow: 1px 0px 0px #ccc;
+    width: 400px;
+    background-color: #fff;
+    padding: 50px;
+}
+.lado-direito h1 {
+    text-align: center;
+}
+.lado-direito label {
+    display: block;
+    margin-bottom: 30px;
+}
+.lado-direito input {
+    width: 100%;
+    border: 1px solid #999;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 14px;
+    outline: 0;
+}
+#cButton {
+    font-size: 16px;
+    background-color: #48d05f;
+    color: #fff;
+    border: none;
+}
+#cButton:hover {
+    background-color: #32a345;
+}
+.facaLogin {
+    text-align: center;
+}
+.facaLogin a {
+    text-decoration: none;
+    color: #000;
+}
+.error {
+    font-size: 12px;
+    color: #ff0000;
+    text-shadow: 1px 1px 2px #999;
+}
