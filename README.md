@@ -67,3 +67,10 @@ Estou mantendo fiel ao desenvolvimento para que possa observar a evolução.
 <img height="270em" src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%209%20-%20Slideshow/images/como%20ficou1.png">
 </div>
 <hr>
+ <div>
+<h3 align="center">Projeto 11 - Bateria</h3>
+<a href="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2011%20-%20Bateria/"><p align="center">👉 Acesse a página clicando aqui! 👈</p></a>
+<div align="center">
+<img height="270em" src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2011%20-%20Bateria/como%20ficou.png">
+</div>
+<hr>
