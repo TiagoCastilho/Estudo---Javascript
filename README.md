@@ -71,13 +71,13 @@ Estou mantendo fiel ao desenvolvimento para que possa observar a evolução.
 <h3 align="center">Projeto 10 - Validador de Formulários</h3>
 <a href="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2010%20-%20Validador%20de%20Formul%C3%A1rios/"><p align="center">👉 Acesse a página clicando aqui! 👈</p></a>
 <div align="center">
-<img height="270em" src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2011%20-%20Bateria/como%20ficou.png">
+<img height="270em" src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2010%20-%20Validador%20de%20Formul%C3%A1rios/images/como%20ficou1.png">
 </div>
 <hr>
 <div>
 <h3 align="center">Projeto 11 - Bateria</h3>
 <a href="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2011%20-%20Bateria/"><p align="center">👉 Acesse a página clicando aqui! 👈</p></a>
 <div align="center">
-<img height="270em" src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2010%20-%20Validador%20de%20Formul%C3%A1rios//images/como%20ficou1.png">
+<img height="270em" src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2011%20-%20Bateria/como%20ficou.png">
 </div>
 <hr>
