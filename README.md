@@ -88,3 +88,10 @@ Estou mantendo fiel ao desenvolvimento para que possa observar a evolução.
 <img height="270em" src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2012%20-%20Rel%C3%B3gio%20Anal%C3%B3gico/como%20ficou.png">
 </div>
 <hr>
+<div>
+<h3 align="center">Projeto 13 - Clima</h3>
+<a href="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2013%20-%20Clima/"><p align="center">👉 Acesse a página clicando aqui! 👈</p></a>
+<div align="center">
+<img height="270em" src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2013%20-%20Clima/como%20ficou2.png">
+</div>
+<hr>
