@@ -12,8 +12,8 @@ https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2014%20-%20Jogo%20da
 
 ## Imagem do Projeto
 <h1 align="center">
-<img src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2014%20-%20Jogo%20da%20Velha/como%20ficou1.png">
+<img src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2014%20-%20Jogo%20da%20Velha/como%20ficou%201.png">
 </h1>
 <h1 align="center">
-<img src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2014%20-%20Jogo%20da%20Velha/como%20ficou2.png">
+<img src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2014%20-%20Jogo%20da%20Velha/como%20ficou%202.png">
 </h1>
