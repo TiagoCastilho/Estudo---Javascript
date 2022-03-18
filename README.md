@@ -116,3 +116,10 @@ Estou mantendo fiel ao desenvolvimento para que possa observar a evolução.
 <img height="270em" src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2016%20-%20Quiz/como%20ficou2.png">
 </div>
 <hr>
+<div>
+<h3 align="center">Projeto 17 - Arrasta e Solta</h3>
+<a href="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2017%20-%20Arrasta%20e%20Solta/"><p align="center">👉 Acesse a página clicando aqui! 👈</p></a>
+<div align="center">
+<img height="270em" src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2017%20-%20Arrasta%20e%20Solta/como%20ficou2.png">
+</div>
+<hr>
