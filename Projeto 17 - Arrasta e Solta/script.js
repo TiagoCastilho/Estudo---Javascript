@@ -19,7 +19,7 @@ document.querySelector('.neutralArea').addEventListener('dragover', dragOverNeut
 document.querySelector('.neutralArea').addEventListener('dragleave', dragLeaveNeutral);
 document.querySelector('.neutralArea').addEventListener('drop', dropNeutral);
 
-// Functions Item
+// Function Item
 function dragStart(e) {
     e.currentTarget.classList.add('dragging');
 }
@@ -27,7 +27,7 @@ function dragEnd(e) {
     e.currentTarget.classList.remove('dragging');
 }
 
-// Functions Area
+// Function Area
 function dragOver(e) {
     if(e.currentTarget.querySelector('.item') === null) {
         e.preventDefault();
@@ -40,14 +40,15 @@ function dragLeave(e) {
 function drop(e) {
     e.currentTarget.classList.remove('hover');
 
+    let dragItem = document.querySelector('.item.dragging');
+
     if(e.currentTarget.querySelector('.item') === null) {
-        let dragItem = document.querySelector('.item.dragging');
         e.currentTarget.appendChild(dragItem);
         updateAreas();
     }
 }
 
-// Functions Neutral Area
+// Function Neutral Area
 function dragOverNeutral(e) {
     e.preventDefault();
     e.currentTarget.classList.add('hover');
@@ -62,7 +63,7 @@ function dropNeutral(e) {
     updateAreas();
 }
 
-// Logic Functions
+// Logic Function
 function updateAreas() {
     document.querySelectorAll('.area').forEach(area => {
         let name = area.getAttribute('data-name');
