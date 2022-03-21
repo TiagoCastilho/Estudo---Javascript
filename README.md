@@ -113,7 +113,7 @@ Estou mantendo fiel ao desenvolvimento para que possa observar a evolução.
 <h3 align="center">Projeto 16 - Quiz</h3>
 <a href="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2016%20-%20Quiz/"><p align="center">👉 Acesse a página clicando aqui! 👈</p></a>
 <div align="center">
-<img height="270em" src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2016%20-%20Quiz/como%20ficou2.png">
+<img height="270em" src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2016%20-%20Quiz/como%20ficou5.png">
 </div>
 <hr>
 <div>
