@@ -17,3 +17,12 @@ https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2016%20-%20Quiz/
 <h1 align="center">
 <img src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2016%20-%20Quiz/como%20ficou2.png">
 </h1>
+<h1 align="center">
+<img src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2016%20-%20Quiz/como%20ficou3.png">
+</h1>
+<h1 align="center">
+<img src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2016%20-%20Quiz/como%20ficou4.png">
+</h1>
+<h1 align="center">
+<img src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%2016%20-%20Quiz/como%20ficou5.png">
+</h1>
