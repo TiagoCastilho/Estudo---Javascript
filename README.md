@@ -6,14 +6,12 @@ Estou mantendo fiel ao desenvolvimento para que possa observar a evolução.
 ## Exercícios e Projetos
 <div>
 <h3 align="center">Projeto 1 - Menu de navegação</h3>
-<a href="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%201%20-%20Menu%20de%20navega%C3%A7%C3%A3o/"><p align="center">👉 Acesse a página clicando aqui! 👈</p></a>
 <div align="center">
 <img height="270em" src="https://tiagocastilho.github.io/Estudo---Javascript//Projeto%201%20-%20Menu%20de%20navega%C3%A7%C3%A3o/assets/images/Como%20Ficou.png">
 </div>
 <hr>
 <div>
 <h3 align="center">Projeto 2 - Switch</h3>
-<a href="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%202%20-%20Switch/"><p align="center">👉 Acesse a página clicando aqui! 👈</p></a>
 <div align="center">
 <img height="270em" src="https://github.com/TiagoCastilho/Estudo---Javascript/blob/main/Projeto%202%20-%20Switch/como%20ficou.png">
 </div>
@@ -27,21 +25,18 @@ Estou mantendo fiel ao desenvolvimento para que possa observar a evolução.
 <hr>
 <div>
 <h3 align="center">Projeto 4 - Fetch</h3>
-<a href="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%204%20-%20Fetch/"><p align="center">👉 Acesse a página clicando aqui! 👈</p></a>
 <div align="center">
 <img height="270em" src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%204%20-%20Fetch/como%20ficou.png">
 </div>
 <hr>
 <div>
 <h3 align="center">Projeto 5 - Async e Await</h3>
-<a href="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%205%20-%20Async%20e%20Await/"><p align="center">👉 Acesse a página clicando aqui! 👈</p></a>
 <div align="center">
 <img height="270em" src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%205%20-%20Async%20e%20Await/como%20ficou.png">
 </div>
 <hr>
 <div>
 <h3 align="center">Projeto 6 - Fetch com POST</h3>
-<a href="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%206%20-%20Fetch%20com%20POST/"><p align="center">👉 Acesse a página clicando aqui! 👈</p></a>
 <div align="center">
 <img height="270em" src="https://tiagocastilho.github.io/Estudo---Javascript/Projeto%206%20-%20Fetch%20com%20POST/como%20ficou.png">
 </div>
