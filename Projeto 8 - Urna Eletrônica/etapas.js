@@ -56,7 +56,7 @@ let etapas = [
                 nome: 'Mickael Feitosa',
                 partido: 'ABC',
                 fotos: [
-                    {url: '4-2.png',legenda: 'Vereador',small: false}
+                    {url: '4-1.png',legenda: 'Vereador',small: false}
                 ]
             },
             {
@@ -64,7 +64,7 @@ let etapas = [
                 nome: 'Elisabete Pinto',
                 partido: 'DEF',
                 fotos: [
-                    {url: '2-1.png',legenda: 'Vereador',small: false}
+                    {url: '4-2.png',legenda: 'Vereador',small: false}
                 ]
             }
             
@@ -106,7 +106,7 @@ let etapas = [
             },
             {
                 numero: '44',
-                nome: 'ZBrenda Sobral',
+                nome: 'Brenda Sobral',
                 partido: 'ABC',
                 vice: 'Irina Milhães',
                 fotos: [
